@@ -17,4 +17,4 @@
 ## CLion 콘솔창 한글 깨짐 해결법
 * Settings -> FileEncoding -> ProjectEncoding : UTF-8로 설정
   
-[참고 : CLion 인코딩] (https://blossomwhale.tistory.com/65)
+참고 : [CLion 인코딩](https://blossomwhale.tistory.com/65)
